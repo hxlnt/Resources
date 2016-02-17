@@ -1,3 +1,3 @@
-# pdfs
+# Resources
 
-PDFs of my presentations. Enjoy!
+A collections of design and programming resources for students, indie developers, and artists.
