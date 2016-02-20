@@ -7,6 +7,12 @@ A collection of design and programming resources for students, indie developers,
 
 ### HTML & CSS
 - [Can I Use...?](http://caniuse.com/): Bible of browser compatibility for new features in HTML, CSS, and more.
+- [W3Schools: CSS](http://www.w3schools.com/css/default.asp): Up-to-date, reliable CSS resource.
+- [W3Schools: HTML5](http://www.w3schools.com/html/default.asp): Up-to-date, reliable HTML resource.
+
+### Javascript and JQuery
+- [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
+- [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
 
 ### JSON
 - [JSON Editor Online](http://jsoneditoronline.org/)
