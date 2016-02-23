@@ -16,6 +16,7 @@ A collection of design and programming resources for students, indie developers,
 ### Art and design
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
+- [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
 
 ------
