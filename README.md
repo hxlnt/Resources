@@ -7,6 +7,7 @@ A collection of design and programming resources for students, indie developers,
 - [Javascript and JQuery](#javascript-and-jquery)
 - [Javascript frameworks](#javascript-frameworks)
 - [JSON](#json)
+- [Kinect](#kinect)
 - [Markdown](#markdown)
 - [Python](#python)
 
