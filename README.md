@@ -53,6 +53,11 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
+### Kinect
+- [Introduction à la Kinect V2 pour Windows](https://channel9.msdn.com/Blogs/Microsoft-D-veloppeurs-France/Introduction--la-Kinect-V2-pour-Windows) (French language): Une introduction aux caractéristiques de la Kinect V2 pour Windows.
+
+------
+
 ### Markdown
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): The official guide to Markdown syntax.
 
