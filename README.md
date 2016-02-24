@@ -4,8 +4,7 @@ A collection of design and programming resources for students, indie developers,
 - [Art and design](#art-and-design)
 - [Assembly language and BASIC for 8-bit computers and game consoles](#assembly-language-and-basic-for-8-bit-computers-and-game-consoles)
 - [HTML & CSS](#html-and-css)
-- [Javascript and JQuery](#javascript-and-jquery)
-- [Javascript frameworks](#javascript-frameworks)
+- [Javascript](#javascript) (incl. Angular, frameworks, JQuery, node.js/npm)
 - [JSON](#json)
 - [Kinect](#kinect)
 - [Markdown](#markdown)
@@ -39,15 +38,13 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### Javascript and JQuery 
+### Javascript
+- [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
+- _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. 
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
+- [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
-
-------
-
-### Javascript frameworks
-- [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is MVC, anyway? Read this quick explanation from Reddit's ELI5 subforum.
 
 ------
 
