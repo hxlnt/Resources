@@ -2,7 +2,7 @@
 A collection of design and programming resources for students, indie developers, and artists.
 
 - [Art and design](#art-and-design)
-- [Assembly language and BASIC for 8-bit computers](#assembly-language-and-basic-for-8-bit-computers)
+- [Assembly language and BASIC for 8-bit computers and game consoles](#assembly-language-and-basic-for-8-bit-computers-and-game-consoles)
 - [HTML & CSS](#html-and-css)
 - [Javascript and JQuery](#javascript-and-jquery)
 - [Javascript frameworks](#javascript-frameworks)
@@ -21,8 +21,8 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### Assembly language and BASIC for 8-bit computers
-- _[6502 Assembly Language Programming](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)_: This workbook-style book is how I first taught myself 6502 ASM.
+### Assembly language and BASIC for 8-bit computers and game consoles
+- _[6502 Assembly Language Programming](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)_: This workbook-style book will teach you how to write assembly language code for the Apple II, Commodore 64, NES, and other _hot new 6502-based systems!_
 - [AtariAge: Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/): Metaresource for Atari 2600 programming (documentation, sample code, utilities, etc.) from Atari enthusiast forum AtariAge.
 - [Romhacking.net](http://www.romhacking.net): Active community for video game ROM hacking (mostly 8- and 16-bit) with useful collections of utilities and documentation.
 - [NintendoAge](http://www.nintendoage.com): The premiere forum for NES collectors and general enthusiasts has a subforum on NES programming with some of the best NES ASM tutorials ("Nerdy Nights") out there.
