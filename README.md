@@ -31,12 +31,16 @@ A collection of design and programming resources for students, indie developers,
 
 ### HTML and CSS
 - [Can I Use...?](http://caniuse.com/): Bible of browser compatibility for new features in HTML, CSS, and more.
+- [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
+- [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/): Comprehensive HTML reference and teaching materials.
+- [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of HTML and CSS tutorials compiled by the Mozilla Developer Network.
 - [W3Schools: CSS](http://www.w3schools.com/css/default.asp): Up-to-date, reliable CSS resource.
 - [W3Schools: HTML5](http://www.w3schools.com/html/default.asp): Up-to-date, reliable HTML resource.
 
 ------
 
 ### Javascript and JQuery 
+- [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
 
