@@ -40,7 +40,8 @@ A collection of design and programming resources for students, indie developers,
 
 ### Javascript
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
-- _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. 
+- [Javascript MVC](http://alistapart.com/article/javascript-mvc): A shockingly clear and in-depth explanation of Javascript MVC.
+- _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated considering all that's changed with Javascript usage since 2010, but valuable nonetheless.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
