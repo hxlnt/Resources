@@ -8,7 +8,9 @@ A collection of design and programming resources for students, indie developers,
 - [JSON](#json)
 - [Kinect](#kinect)
 - [Markdown](#markdown)
+- [Microcontrollers](#microcontrollers) (incl. Arduino, Photon, etc.)
 - [Python](#python)
+- [Raspberry Pi](#raspberry-pi)
 
 ------
 
@@ -29,6 +31,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### HTML and CSS
+- [Bootstrap](http://getbootstrap.com/): A 12-grid framework that makes building beautiful and responsive websites way too easy.
 - [Can I Use...?](http://caniuse.com/): Bible of browser compatibility for new features in HTML, CSS, and more.
 - [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/): Comprehensive HTML reference and teaching materials.
@@ -39,6 +42,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Javascript
+- [AngularJS: Developer Guide](https://docs.angularjs.org/guide): The official guide to AngularJS.
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
 - [Javascript MVC](http://alistapart.com/article/javascript-mvc): A shockingly clear and in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and has no information on contemporary MVC frameworks. In some ways, this is quite interesting, as it allows for a framework-agnostic conversation.)
 - _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated given its 2010 publication date, but valuable nonetheless.
@@ -67,6 +71,16 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
+### Microcontrollers
+- [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
+
+------
+
 ### Python
 - _[Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/)_: A book that starts with programming basics and goes through a number of practical projects in Python--available for purchase, as a free PDF, and in video form.
+
+------
+
+### Raspberry Pi
+- [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam): Adafruit tutorial for making a cloud-connected camera.
 
