@@ -75,6 +75,8 @@ A collection of design and programming resources for students, indie developers,
 
 ### Microcontrollers
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
+- [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
+- [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
 
 ------
 
