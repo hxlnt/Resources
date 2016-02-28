@@ -33,6 +33,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### C++
+- [ofBook: C++ Language Basics](http://openframeworks.cc/ofBook/chapters/cplusplus_basics.html): openFrameworks's guide to learning C++.
 - [openFrameworks](http://openframeworks.cc/): An open-source C++ framework for creative coding.
 
 ------
