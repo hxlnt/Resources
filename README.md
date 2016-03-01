@@ -3,6 +3,7 @@ A collection of design and programming resources for students, indie developers,
 
 - [Art and design](#art-and-design)
 - [Assembly language and BASIC for 8-bit computers and game consoles](#assembly-language-and-basic-for-8-bit-computers-and-game-consoles)
+- [Azure](#Azure)
 - [C++](#c++)
 - [HTML & CSS](#html-and-css)
 - [Javascript](#javascript) (incl. Angular, frameworks, JQuery, node.js/npm)
