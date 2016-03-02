@@ -11,6 +11,7 @@ A collection of design and programming resources for students, indie developers,
 - [Kinect](#kinect)
 - [Markdown](#markdown)
 - [Microcontrollers](#microcontrollers) (incl. Arduino, Photon, etc.)
+- [Processing](#processing)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
 
@@ -92,6 +93,12 @@ A collection of design and programming resources for students, indie developers,
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
 - [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
+
+------
+
+### Processing
+- [Processing](https://processing.org/): Processing is a programming language and development environment targeted at visualization.
+- [V3GA BlobDetection](http://www.v3ga.net/processing/BlobDetection/): Processing library for computer vision "blob finding."
 
 ------
 
