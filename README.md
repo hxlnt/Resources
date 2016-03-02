@@ -70,6 +70,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### JSON
+- [Excel to JSON](https://github.com/mhaemmerle/excel-to-json): Automatically converts Excel documents to JSON with rad and easy-to-use conventions for nesting, arrays, and more.
 - [JSON Editor Online](http://jsoneditoronline.org/)
 - [json.human.js: Json Formatting for Human Beings](http://marianoguerra.github.io/json.human.js/): View a JSON file in a human-readable HTML table.
 - [JSON Editor](https://github.com/jdorn/json-editor): Feed in a JSON schema, and you'll get an interactive HTML form that can be used to create/update a JSON file.
