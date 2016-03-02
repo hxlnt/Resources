@@ -79,6 +79,7 @@ A collection of design and programming resources for students, indie developers,
 ### Kinect
 - [Introduction à la Kinect V2 pour Windows](https://channel9.msdn.com/Blogs/Microsoft-D-veloppeurs-France/Introduction--la-Kinect-V2-pour-Windows) (French language): Une introduction aux caractéristiques de la Kinect V2 pour Windows.
 - [LightBuzz Software: GitHub](https://github.com/LightBuzz): A great collection of Kinect projects and code, including Kinect-Drawing, Vitruvius, Kinect-Finger-Tracking, Kinect-2-CSV, and Kinect-HTML5.
+- [Programming Kinect for Windows v2](https://channel9.msdn.com/Series/Programming-Kinect-for-Windows-v2): An in-depth video series on writing code for the Kinect. About 6 hours of content (spread out over seven videos) and suitable for beginners.
 
 ------
 
