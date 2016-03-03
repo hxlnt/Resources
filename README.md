@@ -60,11 +60,13 @@ A collection of design and programming resources for students, indie developers,
 ### Javascript
 - [AngularJS: Developer Guide](https://docs.angularjs.org/guide): The official guide to AngularJS.
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
+- [Javascript Best Practices](https://dev.opera.com/articles/javascript-best-practices/): Christian Heilmann's common-sense approaches to writing good Javascript.
 - [Javascript MVC](http://alistapart.com/article/javascript-mvc): A shockingly clear and in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and has no information on contemporary MVC frameworks. In some ways, this is quite interesting, as it allows for a framework-agnostic conversation.)
 - _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated given its 2010 publication date, but valuable nonetheless.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
+- [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
 
