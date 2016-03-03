@@ -79,7 +79,9 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Kinect
+- [3D Builder](https://msdn.microsoft.com/en-us/windows/hardware/mt561568.aspx): Video tutorials on how to use the Kinect v2 to scan and print 3D models.
 - [Introduction à la Kinect V2 pour Windows](https://channel9.msdn.com/Blogs/Microsoft-D-veloppeurs-France/Introduction--la-Kinect-V2-pour-Windows) (French language): Une introduction aux caractéristiques de la Kinect V2 pour Windows.
+- [KinectPV2](https://github.com/ThomasLengeling/KinectPV2): Processing library for Kinect v2.
 - [LightBuzz Software: GitHub](https://github.com/LightBuzz): A great collection of Kinect projects and code, including Kinect-Drawing, Vitruvius, Kinect-Finger-Tracking, Kinect-2-CSV, and Kinect-HTML5.
 - [Programming Kinect for Windows v2](https://channel9.msdn.com/Series/Programming-Kinect-for-Windows-v2): An in-depth video series on writing code for the Kinect. About 6 hours of content (spread out over seven videos) and suitable for beginners.
 
@@ -98,6 +100,8 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Processing
+- [KinectPV2](https://github.com/ThomasLengeling/KinectPV2): Processing library for Kinect v2.
+- [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Processing](https://processing.org/): Processing is a programming language and development environment targeted at visualization.
 - [V3GA BlobDetection](http://www.v3ga.net/processing/BlobDetection/): Processing library for computer vision "blob finding."
 
