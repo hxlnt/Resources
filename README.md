@@ -48,6 +48,7 @@ A collection of design and programming resources for students, indie developers,
 ### HTML and CSS
 - [Bootstrap](http://getbootstrap.com/): A 12-grid framework that makes building beautiful and responsive websites way too easy.
 - [Can I Use...?](http://caniuse.com/): Bible of browser compatibility for new features in HTML, CSS, and more.
+- [HTML5 Hacks](http://www.html5hacks.com/): A blog showcasing cool and useful things to do with HTML5. There's also [a book](http://www.html5hacks.com/get-the-book/) that despite being a little outdated is a good reference.
 - [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/): Comprehensive HTML reference and teaching materials.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of HTML and CSS tutorials compiled by the Mozilla Developer Network.
