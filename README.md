@@ -36,6 +36,8 @@ A collection of design and programming resources for students, indie developers,
 
 ### Azure
 - [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple node.js app.
+- [How to use Blitline with Azure and Azure Storage](https://azure.microsoft.com/en-us/documentation/articles/store-blitline-how-to-use/): Blitline + Azure = Image processing in the cloud.
+- [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
 
 ------
 
