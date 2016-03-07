@@ -2,7 +2,7 @@
 A collection of design and programming resources for students, indie developers, and artists.
 
 - [Art and design](#art-and-design)
-- [Assembly language and BASIC for 8-bit computers and game consoles](#assembly-language-and-basic-for-8-bit-computers-and-game-consoles)
+- [Assembly language for 8-bit computers and game consoles](#assembly-language-for-8-bit-computers-and-game-consoles)
 - [Azure](#Azure)
 - [C++](#c++)
 - [HTML & CSS](#html-and-css)
@@ -25,7 +25,7 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### Assembly language and BASIC for 8-bit computers and game consoles
+### Assembly language for 8-bit computers and game consoles
 - _[6502 Assembly Language Programming](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)_: This workbook-style book will teach you how to write assembly language code for the Apple II, Commodore 64, NES, and other _hot new 6502-based systems!_
 - [AtariAge: Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/): Metaresource for Atari 2600 programming (documentation, sample code, utilities, etc.) from Atari enthusiast forum AtariAge.
 - [Romhacking.net](http://www.romhacking.net): Active community for video game ROM hacking (mostly 8- and 16-bit) with useful collections of utilities and documentation.
@@ -41,7 +41,6 @@ A collection of design and programming resources for students, indie developers,
 
 ### C++
 - [ofBook: C++ Language Basics](http://openframeworks.cc/ofBook/chapters/cplusplus_basics.html): openFrameworks's guide to learning C++.
-- [openFrameworks](http://openframeworks.cc/): An open-source C++ framework for creative coding.
 
 ------
 
@@ -61,7 +60,7 @@ A collection of design and programming resources for students, indie developers,
 - [AngularJS: Developer Guide](https://docs.angularjs.org/guide): The official guide to AngularJS.
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
 - [Javascript Best Practices](https://dev.opera.com/articles/javascript-best-practices/): Christian Heilmann's common-sense approaches to writing good Javascript.
-- [Javascript MVC](http://alistapart.com/article/javascript-mvc): A shockingly clear and in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and has no information on contemporary MVC frameworks. In some ways, this is quite interesting, as it allows for a framework-agnostic conversation.)
+- [Javascript MVC](http://alistapart.com/article/javascript-mvc): An in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and framework-agnostic conversation.)
 - _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated given its 2010 publication date, but valuable nonetheless.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
@@ -73,7 +72,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### JSON
-- [Excel to JSON](https://github.com/mhaemmerle/excel-to-json): Automatically converts Excel documents to JSON with rad and easy-to-use conventions for nesting, arrays, and more.
+- [Excel to JSON](https://github.com/mhaemmerle/excel-to-json): Automatically converts Excel documents to JSON with rad and easy-to-use conventions for nesting, arrays, and more. Requires [Leiningen](http://leiningen.org).
 - [JSON Editor Online](http://jsoneditoronline.org/)
 - [json.human.js: Json Formatting for Human Beings](http://marianoguerra.github.io/json.human.js/): View a JSON file in a human-readable HTML table.
 - [JSON Editor](https://github.com/jdorn/json-editor): Feed in a JSON schema, and you'll get an interactive HTML form that can be used to create/update a JSON file.
