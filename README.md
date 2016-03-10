@@ -5,6 +5,7 @@ A collection of design and programming resources for students, indie developers,
 - [Assembly language for 8-bit computers and game consoles](#assembly-language-for-8-bit-computers-and-game-consoles)
 - [Azure](#Azure)
 - [C++](#c++)
+- [Crafts and wearables](#crafts-and-wearables)
 - [HTML & CSS](#html-and-css)
 - [Javascript](#javascript) (incl. Angular, frameworks, JQuery, node.js/npm)
 - [JSON](#json)
@@ -43,6 +44,12 @@ A collection of design and programming resources for students, indie developers,
 
 ### C++
 - [ofBook: C++ Language Basics](http://openframeworks.cc/ofBook/chapters/cplusplus_basics.html): openFrameworks's guide to learning C++.
+
+------
+
+### Crafts and wearables
+- [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
+- [Crochet Battery Holder](http://www.instructables.com/id/Crochet-Battery-Holder/): Instructions for making an ingenious crocheted coin cell battery holder.
 
 ------
 
@@ -98,9 +105,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Microcontrollers
-- [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
 - [ArduinoJSON](https://github.com/bblanchon/ArduinoJson): JSON parsing/encoding library for microcontrollers, including Arduino and Particle Photon (via the Particle online IDE).
-
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
 - [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
 
