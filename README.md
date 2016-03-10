@@ -74,6 +74,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### JSON
+- [ArduinoJSON](https://github.com/bblanchon/ArduinoJson): JSON parsing/encoding library for microcontrollers, including Arduino and Particle Photon (via the Particle online IDE).
 - [Excel to JSON](https://github.com/mhaemmerle/excel-to-json): Automatically converts Excel documents to JSON with rad and easy-to-use conventions for nesting, arrays, and more. Requires [Leiningen](http://leiningen.org).
 - [JSON Editor Online](http://jsoneditoronline.org/)
 - [json.human.js: Json Formatting for Human Beings](http://marianoguerra.github.io/json.human.js/): View a JSON file in a human-readable HTML table.
@@ -98,6 +99,8 @@ A collection of design and programming resources for students, indie developers,
 
 ### Microcontrollers
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
+- [ArduinoJSON](https://github.com/bblanchon/ArduinoJson): JSON parsing/encoding library for microcontrollers, including Arduino and Particle Photon (via the Particle online IDE).
+
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
 - [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
 
