@@ -15,6 +15,7 @@ A collection of design and programming resources for students, indie developers,
 - [Processing](#processing)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
+- [Twitter](#twitter)
 
 ------
 
@@ -76,7 +77,6 @@ A collection of design and programming resources for students, indie developers,
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
-- [Twitter API with node.js and Express](https://github.com/jacobscarter/Twitter-API-with-Node-and-Express): Pretty much what is sounds like.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
 
@@ -131,3 +131,7 @@ A collection of design and programming resources for students, indie developers,
 ### Raspberry Pi
 - [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam): Adafruit tutorial for making a cloud-connected camera.
 
+------
+
+### Twitter API
+- [Working with Timelines](https://dev.twitter.com/rest/public/timelines): Twitter's official guide to polling timelines responsibly.
