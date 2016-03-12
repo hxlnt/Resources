@@ -133,5 +133,5 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### Twitter API
+### Twitter
 - [Working with Timelines](https://dev.twitter.com/rest/public/timelines): Twitter's official guide to polling timelines responsibly.
