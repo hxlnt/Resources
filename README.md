@@ -7,11 +7,11 @@ A collection of design and programming resources for students, indie developers,
 - [C++](#c++)
 - [Crafts and wearables](#crafts-and-wearables)
 - [HTML & CSS](#html-and-css)
-- [Javascript](#javascript) (incl. Angular, frameworks, JQuery, node.js/npm)
+- [Javascript](#javascript) _(incl. Angular, JQuery, node)_
 - [JSON](#json)
 - [Kinect](#kinect)
 - [Markdown](#markdown)
-- [Microcontrollers](#microcontrollers) (incl. Arduino, Photon, etc.)
+- [Microcontrollers](#microcontrollers) _(incl. Arduino, Photon, etc.)_
 - [Processing](#processing)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
