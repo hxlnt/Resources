@@ -51,6 +51,7 @@ A collection of design and programming resources for students, indie developers,
 ### Crafts and wearables
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
 - [Conductive Thread](https://learn.adafruit.com/conductive-thread/overview): An Adafruit tutorial on using conductive thread.
+- [Cricut Explore Blade and Blade Housing Changes and Comparisons](https://www.youtube.com/watch?v=fZqVy_roJGY): This video has some great information about replacing blades in the Cricut Explore.
 - [Crochet Battery Holder](http://www.instructables.com/id/Crochet-Battery-Holder/): Instructions for making an ingenious crocheted coin cell battery holder.
 
 ------
@@ -94,6 +95,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### Kinect
 - [3D Builder](https://msdn.microsoft.com/en-us/windows/hardware/mt561568.aspx): Video tutorials on how to use the Kinect v2 to scan and print 3D models.
+- [Developing with Kinect for Windows v2 on a Mac](https://blogs.msdn.microsoft.com/kinectforwindows/2014/07/28/developing-with-kinect-for-windows-v2-on-a-mac/): Microsoft's guide to installing Windows on a USB drive to do Kinect development on a Mac. (That may be the weirdest sentence ever typed!)
 - [Introduction à la Kinect V2 pour Windows](https://channel9.msdn.com/Blogs/Microsoft-D-veloppeurs-France/Introduction--la-Kinect-V2-pour-Windows) (French language): Une introduction aux caractéristiques de la Kinect V2 pour Windows.
 - [KinectPV2](https://github.com/ThomasLengeling/KinectPV2): Processing library for Kinect v2.
 - [LightBuzz Software: GitHub](https://github.com/LightBuzz): A great collection of Kinect projects and code, including Kinect-Drawing, Vitruvius, Kinect-Finger-Tracking, Kinect-2-CSV, and Kinect-HTML5.
