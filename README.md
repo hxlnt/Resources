@@ -102,6 +102,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Markdown
+- [DocPad](http://docpad.org/docs/begin): A cool node-based static-site generator that lets you author however you like, including with Markdown.
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): The official guide to Markdown syntax.
 
 ------
