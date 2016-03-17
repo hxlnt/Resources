@@ -111,6 +111,7 @@ A collection of design and programming resources for students, indie developers,
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
 - [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
 - [How to Setup a Particle Photon and a 16x2 LCD Screen](http://blog.jongallant.com/2015/10/particle-photon-lcd-setup.html): Jon Gallant goes through wiring up and grabbing libraries for a Photon and a standard 16x2 LCD screen.
+- [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
 - [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
 
 ------
