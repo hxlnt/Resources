@@ -24,6 +24,7 @@ A collection of design and programming resources for students, indie developers,
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
+- [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
 
 ------
 
@@ -78,6 +79,7 @@ A collection of design and programming resources for students, indie developers,
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
+- [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
 
