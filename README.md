@@ -77,7 +77,7 @@ A collection of design and programming resources for students, indie developers,
 - [Javascript MVC](http://alistapart.com/article/javascript-mvc): An in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and framework-agnostic conversation.)
 - _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated given its 2010 publication date, but valuable nonetheless.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
-- [Modern Workflow & Tooling](http://wesbos.com/modern-javascript-workflow-tooling/): Wes Bos's excellent talk on modern web development tooling.
+- [Modern Workflow & Tooling](http://wesbos.com/modern-javascript-workflow-tooling/): Grunt? Gulp? Node? Huh? Watch Wes Bos's talk on modern web development tooling and get caught up on the latest in build and workflow tooling.
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
