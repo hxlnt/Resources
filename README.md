@@ -1,4 +1,4 @@
-# Resources
+# RAE'S BOOKMARX 4 CODERS
 A collection of design and programming resources for students, indie developers, and artists.
 
 - [Art and design](#art-and-design)
