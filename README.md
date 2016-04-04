@@ -23,6 +23,8 @@ A collection of design and programming resources for students, indie developers,
 ### APIs
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 
+------
+
 ### Art and design
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
