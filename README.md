@@ -1,6 +1,7 @@
 # RAE'S BOOKMARX 4 CODERS
 A collection of design and programming resources for students, indie developers, and artists.
 
+- [APIs](#apis)
 - [Art and design](#art-and-design)
 - [Assembly language for 8-bit computers and game consoles](#assembly-language-for-8-bit-computers-and-game-consoles)
 - [Azure](#Azure)
@@ -18,6 +19,9 @@ A collection of design and programming resources for students, indie developers,
 - [Twitter](#twitter)
 
 ------
+
+### APIs
+- [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 
 ### Art and design
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
@@ -66,7 +70,6 @@ A collection of design and programming resources for students, indie developers,
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of HTML and CSS tutorials compiled by the Mozilla Developer Network.
 - [W3Schools: CSS](http://www.w3schools.com/css/default.asp): Up-to-date, reliable CSS resource.
 - [W3Schools: HTML5](http://www.w3schools.com/html/default.asp): Up-to-date, reliable HTML resource.
-- [What the Flexbox?!]: Twenty (!) videos that plainly illustrate the use of CSS flexboxes.
 
 ------
 
