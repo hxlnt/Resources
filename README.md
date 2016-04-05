@@ -11,7 +11,7 @@ A collection of design and programming resources for students, indie developers,
 - [Kinect](#kinect)
 - [Markdown](#markdown)
 - [Microcontrollers](#microcontrollers) _(incl. Arduino, Photon, etc.)_
-- [node.js](#node.js)
+- [node.js](#nodejs)
 - [Processing](#processing)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
@@ -73,8 +73,8 @@ A collection of design and programming resources for students, indie developers,
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
 - [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
-- [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Up-to-date, reliable Javascript resource.
-- [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Up-to-date, reliable JQuery resource.
+- [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Easy-to-use Javascript resource.
+- [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Easy-to-use JQuery resource.
 
 ------
 
