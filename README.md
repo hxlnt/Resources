@@ -101,6 +101,7 @@ A collection of design and programming resources for students, indie developers,
 ### Markdown
 - [DocPad](http://docpad.org/docs/begin): A cool node-based static-site generator that lets you author however you like, including with Markdown.
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): The official guide to Markdown syntax.
+- [VS Code Speedrun: Markdown](https://channel9.msdn.com/Blogs/raw-tech/VS-Code-Speedrun-Markdown): A two-minute video showing how to work with Markdown in VS Code.
 
 ------
 
@@ -110,6 +111,7 @@ A collection of design and programming resources for students, indie developers,
 - [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
 - [How to Setup a Particle Photon and a 16x2 LCD Screen](http://blog.jongallant.com/2015/10/particle-photon-lcd-setup.html): Jon Gallant goes through wiring up and grabbing libraries for a Photon and a standard 16x2 LCD screen.
 - [Play Melody](https://www.arduino.cc/en/Tutorial/PlayMelody): Simple Arduino routine for playing melodies with a piezo speaker.
+- [Spark Twitter Magnet](https://github.com/spark/twitter-magnet): Display a twitter stream using the Particle Photon.
 - [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
 - [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
 
