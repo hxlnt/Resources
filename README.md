@@ -1,9 +1,8 @@
-# RAE'S BOOKMARX 4 CODERS
+# RAE'S BOOKMARKS
 A collection of design and programming resources for students, indie developers, and artists.
 
 - [Art and design](#art-and-design)
 - [Assembly language for 8-bit computers and game consoles](#assembly-language-for-8-bit-computers-and-game-consoles)
-- [C++](#c++)
 - [Crafts and wearables](#crafts-and-wearables)
 - [HTML & CSS](#html-and-css)
 - [Javascript](#javascript)
@@ -24,7 +23,6 @@ A collection of design and programming resources for students, indie developers,
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
-- [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
 
 ------
 
@@ -37,10 +35,6 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### C++
-- [ofBook: C++ Language Basics](http://openframeworks.cc/ofBook/chapters/cplusplus_basics.html): openFrameworks's guide to learning C++.
-
-------
 
 ### Crafts and wearables
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
@@ -113,6 +107,7 @@ A collection of design and programming resources for students, indie developers,
 - [Play Melody](https://www.arduino.cc/en/Tutorial/PlayMelody): Simple Arduino routine for playing melodies with a piezo speaker.
 - [Spark Twitter Magnet](https://github.com/spark/twitter-magnet): Display a twitter stream using the Particle Photon.
 - [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
+- [The Maker Show, ep. 10: Adding a Coin Acceptor to Your Arduino Project](https://channel9.msdn.com/Shows/themakershow/10): Add a coin mechanism to an Arduino using interrupts.
 - [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
 
 ------
