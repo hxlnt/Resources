@@ -12,6 +12,7 @@ A collection of design and programming resources for students, indie developers,
 - [Microcontrollers](#microcontrollers) _(incl. Arduino, Photon, etc.)_
 - [node.js](#nodejs)
 - [Processing](#processing)
+- [Productivity](#productivity)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
 - [Web APIs](#web-apis)
@@ -93,7 +94,8 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Markdown
-- [DocPad](http://docpad.org/docs/begin): A cool node-based static-site generator that lets you author however you like, including with Markdown.
+- [DocPad](http://docpad.org/docs/begin): A node-based static-site generator that lets you author however you like, including with Markdown.
+- [Hexo](http://hexo.io): Another node-based static-site generator with primary authoring via Markdown.
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): The official guide to Markdown syntax.
 - [VS Code Speedrun: Markdown](https://channel9.msdn.com/Blogs/raw-tech/VS-Code-Speedrun-Markdown): A two-minute video showing how to work with Markdown in VS Code.
 
@@ -125,6 +127,11 @@ A collection of design and programming resources for students, indie developers,
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Processing](https://processing.org/): Processing is a programming language and development environment targeted at visualization.
 - [V3GA BlobDetection](http://www.v3ga.net/processing/BlobDetection/): Processing library for computer vision "blob finding."
+
+------
+
+### Productivity
+[Unix/Linux Commands Cheat Sheet](https://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/)
 
 ------
 
