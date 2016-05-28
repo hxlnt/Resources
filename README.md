@@ -104,6 +104,7 @@ A collection of design and programming resources for students, indie developers,
 ### Microcontrollers
 - [ArduinoJSON](https://github.com/bblanchon/ArduinoJson): JSON parsing/encoding library for microcontrollers, including Arduino and Particle Photon (via the Particle online IDE).
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
+- [ConnectedNES](http://www.nobadmemories.com/connectednes): A hack that adds WiFi connectivity and a streaming twitter client to the original NES.
 - [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
 - [How to Setup a Particle Photon and a 16x2 LCD Screen](http://blog.jongallant.com/2015/10/particle-photon-lcd-setup.html): Jon Gallant goes through wiring up and grabbing libraries for a Photon and a standard 16x2 LCD screen.
 - [Play Melody](https://www.arduino.cc/en/Tutorial/PlayMelody): Simple Arduino routine for playing melodies with a piezo speaker.
