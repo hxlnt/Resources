@@ -131,7 +131,7 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Productivity
-[Unix/Linux Commands Cheat Sheet](https://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/)
+- [Unix/Linux Commands Cheat Sheet](https://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/)
 
 ------
 
@@ -142,6 +142,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### Raspberry Pi
 - [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam): Adafruit tutorial for making a cloud-connected camera.
+- [Web Browser for Windows IOT on Raspberry Pi 2](https://www.youtube.com/watch?v=dULnFK6R6XY): Video walkthrough that shows you how to build a web browser for Windows on Pi.
 
 ------
 
