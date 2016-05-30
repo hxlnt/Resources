@@ -112,6 +112,7 @@ A collection of design and programming resources for students, indie developers,
 - [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
 - [The Maker Show, ep. 10: Adding a Coin Acceptor to Your Arduino Project](https://channel9.msdn.com/Shows/themakershow/10): Add a coin mechanism to an Arduino using interrupts.
 - [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
+- [Word Clock v2](https://www.hackster.io/wgbartley/word-clock-v2-26adee): A clock built with an RGB LED strand and a Particle Photon that demonstrates good techniques for lighted sign making.
 
 ------
 
@@ -119,6 +120,7 @@ A collection of design and programming resources for students, indie developers,
 - [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple node.js app.
 - [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
+- [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript.
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 
 ------
