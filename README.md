@@ -42,6 +42,7 @@ A collection of design and programming resources for students, indie developers,
 - [Conductive Thread](https://learn.adafruit.com/conductive-thread/overview): An Adafruit tutorial on using conductive thread.
 - [Cricut Explore Blade and Blade Housing Changes and Comparisons](https://www.youtube.com/watch?v=fZqVy_roJGY): This video has some great information about replacing blades in the Cricut Explore.
 - [Crochet Battery Holder](http://www.instructables.com/id/Crochet-Battery-Holder/): Instructions for making an ingenious crocheted coin cell battery holder.
+- [DIY Neon Sign](http://www.rookiemag.com/2015/12/diy-neon-sign/): Use EL wire to make something that looks a lot like a neon sign.
 
 ------
 
