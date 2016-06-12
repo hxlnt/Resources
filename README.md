@@ -24,6 +24,7 @@ A collection of design and programming resources for students, indie developers,
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
+- [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
 
 ------
 
@@ -48,6 +49,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### HTML and CSS
 - [Bootstrap](http://getbootstrap.com/): A 12-grid framework that makes building beautiful and responsive websites way too easy.
+- _[Build an HTML5 game](http://buildanhtml5game.com)_: A book for web developers who want to transfer skills with HTML, CSS, and Javascript to game design and development.
 - [Can I Use...?](http://caniuse.com/): Bible of browser compatibility for new features in HTML, CSS, and more.
 - [HTML5 Hacks](http://www.html5hacks.com/): A blog showcasing cool and useful things to do with HTML5. There's also [a book](http://www.html5hacks.com/get-the-book/) that despite being a little outdated is a good reference.
 - [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
