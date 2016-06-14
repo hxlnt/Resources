@@ -55,6 +55,7 @@ A collection of design and programming resources for students, indie developers,
 - [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/): Comprehensive HTML reference and teaching materials.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of HTML and CSS tutorials compiled by the Mozilla Developer Network.
+- [Canvas, images, and pixels: Things I learned building an 8-bit logo generator](https://codepo8.github.io/canvas-images-and-pixels/): Good walkthrough of an image manipulation project build with Javascript and HTML5 Canvas.
 - [W3Schools: CSS](http://www.w3schools.com/css/default.asp): Easy-to-use CSS resource.
 - [W3Schools: HTML5](http://www.w3schools.com/html/default.asp): Easy-to-use HTML resource.
 
