@@ -51,6 +51,7 @@ A collection of design and programming resources for students, indie developers,
 - [Bootstrap](http://getbootstrap.com/): A 12-grid framework that makes building beautiful and responsive websites way too easy.
 - _[Build an HTML5 game](http://buildanhtml5game.com)_: A book for web developers who want to transfer skills with HTML, CSS, and Javascript to game design and development.
 - [Can I Use...?](http://caniuse.com/): Bible of browser compatibility for new features in HTML, CSS, and more.
+- [HTML5 Canvas Scratch Pad](http://www.kevs3d.co.uk/dev/scratchpad/): A web-based testing environment for Canvas that includes sample code to modify and play around with.
 - [HTML5's canvas element, and a bit of SVG](http://beej.us/blog/data/html5-canvas/): Blog post describing some of the capabilities of HTML5 Canvas.
 - [HTML5's canvas part II: Pixel manipulation](http://beej.us/blog/data/html5s-canvas-2-pixel/): A follow-up blog post to the one above that describes image processing in Canvas.
 - [HTML5 Hacks](http://www.html5hacks.com/): A blog showcasing cool and useful things to do with HTML5. There's also [a book](http://www.html5hacks.com/get-the-book/) that despite being a little outdated is a good reference.
