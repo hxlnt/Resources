@@ -8,6 +8,7 @@ A collection of design and programming resources for students, indie developers,
 - [Javascript](#javascript)
 - [JSON](#json)
 - [Kinect](#kinect)
+- [Machine learning and AI](#machine-learning-and-ai)
 - [Markdown](#markdown)
 - [Microcontrollers](#microcontrollers) _(incl. Arduino, Photon, etc.)_
 - [node.js](#nodejs)
@@ -100,6 +101,17 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
+### Machine Learning and AI
+- [Azure Machine Learning Studio](https://studio.azureml.net/): Build machine learning models with a drag-and-drop interface, then publish them as APIs.
+- [A Beginner's Guide to Deep Neural Networks](https://research.googleblog.com/2015/09/a-beginners-guide-to-deep-neural.html): An introduction to deep neural networks from the Google Research Blog.
+- [CNTK](https://github.com/Microsoft/CNTK): An open-source deep-learning toolkit.
+- [Howdy](http://howdy.ai): Build a Slackbot!
+- [Microsoft Bot Framework - LUIS](http://katvharris.azurewebsites.net/blog/microsoft-bot-framework-luis/): A blog post by Kat Harris about integrating the Microsoft Bot Framework with LUIS language processing.
+- [Microsoft Bot Framework Post Roundup](https://channel9.msdn.com/coding4fun/blog/Microsoft-Bot-Framework-Post-Round-Up): Collection of links about building stuff with the Microsoft Bot Framework.
+- [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services): APIs around computer vision, speech recognition, and more.
+
+-----
+
 ### Markdown
 - [DocPad](http://docpad.org/docs/begin): A node-based static-site generator that lets you author however you like, including with Markdown.
 - [Hexo](http://hexo.io): Another node-based static-site generator with primary authoring via Markdown.
@@ -157,7 +169,6 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Web APIs
-- [Microsoft Cognitive Services](http://www.microsoft.com/cognitive): Collection of APIs for computer vision, facial recognition, OCR, image search, etc.
 - [ProgrammableWeb](http://www.programmableweb.com/): Search for any web API under the sun.
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 - [Working with Timelines](https://dev.twitter.com/rest/public/timelines): Twitter's official guide to polling timelines responsibly.
