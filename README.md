@@ -16,6 +16,7 @@ A collection of design and programming resources for students, indie developers,
 - [Productivity](#productivity)
 - [Python](#python)
 - [Raspberry Pi](#raspberry-pi)
+- [Swift](#swift)
 - [Web APIs](#web-apis)
 
 ------
@@ -165,6 +166,11 @@ A collection of design and programming resources for students, indie developers,
 ### Raspberry Pi
 - [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam): Adafruit tutorial for making a cloud-connected camera.
 - [Web Browser for Windows IOT on Raspberry Pi 2](https://www.youtube.com/watch?v=dULnFK6R6XY): Video walkthrough that shows you how to build a web browser for Windows on Pi.
+
+------
+
+### Swift
+ - [Intro to iOS App Development with Swift](https://classroom.udacity.com/courses/ud585/): Udacity course on iOS app development with Swift and Xcode.
 
 ------
 
