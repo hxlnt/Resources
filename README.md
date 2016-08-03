@@ -161,6 +161,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### Python
 - _[Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/)_: A book that starts with programming basics and goes through a number of practical projects in Python--available for purchase, as a free PDF, and in video form.
+- [The Python Tutorial](https://docs.python.org/3/tutorial/): The official Python 3 tutorial from [python.org](http://www.python.org) also doubles as a quick documentation and how-to lookup resource. Also available for previous versions.
 
 ------
 
