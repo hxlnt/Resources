@@ -105,7 +105,7 @@ A collection of design and programming resources for students, indie developers,
 - [Azure Machine Learning Studio](https://studio.azureml.net/): Build machine learning models with a drag-and-drop interface, then publish them as APIs.
 - [A Beginner's Guide to Deep Neural Networks](https://research.googleblog.com/2015/09/a-beginners-guide-to-deep-neural.html): An introduction to deep neural networks from the Google Research Blog.
 - [CNTK](https://github.com/Microsoft/CNTK): An open-source deep-learning toolkit.
-- [Howdy](http://howdy.ai): Build a Slackbot!
+- [Machine Learning and Art - Google I/O 2016](https://www.youtube.com/watch?index=86&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&v=egk683bKJYU&app=desktop): Video about the applications of machine learning by artists.
 - [Microsoft Bot Framework - LUIS](http://katvharris.azurewebsites.net/blog/microsoft-bot-framework-luis/): A blog post by Kat Harris about integrating the Microsoft Bot Framework with LUIS language processing.
 - [Microsoft Bot Framework Post Roundup](https://channel9.msdn.com/coding4fun/blog/Microsoft-Bot-Framework-Post-Round-Up): Collection of links about building stuff with the Microsoft Bot Framework.
 - [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services): APIs around computer vision, speech recognition, and more.
