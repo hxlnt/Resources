@@ -25,6 +25,7 @@ A collection of design and programming resources for students, indie developers,
 - [3D Modeling in Adobe Illustrator](http://designmodo.com/3d-modeling-illustrator/): Use Adobe Illustrator to model basic 3D objects.
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
+- [Moving into the World of 3D](https://helpx.adobe.com/illustrator/how-to/illustrator-moving-into-3d.html): A video tutorial on creating 3D art in Adobe Illustrator.
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
 - [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
