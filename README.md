@@ -141,6 +141,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### node.js
 - [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple node.js app.
+- [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script): A simple explanation of how to call a REST API from a node app.
 - [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript.
