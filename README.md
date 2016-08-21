@@ -76,6 +76,7 @@ A collection of design and programming resources for students, indie developers,
 - [Javascript MVC](http://alistapart.com/article/javascript-mvc): An in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and framework-agnostic conversation.)
 - _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated given its 2010 publication date, but valuable nonetheless.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
+- [Meteor Guide](https://guide.meteor.com): Guide to using Meteor for building web applications.
 - [Modern Workflow & Tooling](http://wesbos.com/modern-javascript-workflow-tooling/): Grunt? Gulp? Node? Huh? Watch Wes Bos's talk on modern web development tooling and get caught up on the latest in build and workflow tooling.
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
@@ -143,6 +144,7 @@ A collection of design and programming resources for students, indie developers,
 - [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple node.js app.
 - [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script): A simple explanation of how to call a REST API from a node app.
 - [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
+- [Node.js apps: what’s the difference between installing npm packages locally and globally?](http://www.bartread.com/2014/02/17/whats-difference-locally-globally-installing-npm-packages/): "Global packages are for anything that you need to access from the shell. By contrast local packages are for using within your apps."
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript.
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
