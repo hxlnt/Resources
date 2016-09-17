@@ -49,6 +49,7 @@ A collection of design and programming resources for students, indie developers,
 - [Cricut Explore Blade and Blade Housing Changes and Comparisons](https://www.youtube.com/watch?v=fZqVy_roJGY): This video has some great information about replacing blades in the Cricut Explore.
 - [Crochet Battery Holder](http://www.instructables.com/id/Crochet-Battery-Holder/): Instructions for making an ingenious crocheted coin cell battery holder.
 - [DIY Neon Sign](http://www.rookiemag.com/2015/12/diy-neon-sign/): Use EL wire to make something that looks a lot like a neon sign.
+- [Hack everything: Repurposing everyday devices](https://www.youtube.com/watch?v=VY9SBPo1Oy8): A conference talk by Matt Evans that walks through hacking reclaimed electroncs.
 - [Introduction to Interfaces](https://www.youtube.com/watch?v=nMZJwspSkAc): An episode of the Ben Heck show that breaks down I2C, SPI, and RS-232 interfaces.
 
 ------
