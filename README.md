@@ -42,12 +42,14 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 
-### Crafts and wearables
+### Electronics
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
 - [Conductive Thread](https://learn.adafruit.com/conductive-thread/overview): An Adafruit tutorial on using conductive thread.
+- [Creative Case Hacks: No 3D Printer Required!](https://www.youtube.com/watch?v=grG3EVPg1vI): Ben Heck demonstrates how to make an acrylic electronics closure by hand.
 - [Cricut Explore Blade and Blade Housing Changes and Comparisons](https://www.youtube.com/watch?v=fZqVy_roJGY): This video has some great information about replacing blades in the Cricut Explore.
 - [Crochet Battery Holder](http://www.instructables.com/id/Crochet-Battery-Holder/): Instructions for making an ingenious crocheted coin cell battery holder.
 - [DIY Neon Sign](http://www.rookiemag.com/2015/12/diy-neon-sign/): Use EL wire to make something that looks a lot like a neon sign.
+- [Introduction to Interfaces](https://www.youtube.com/watch?v=nMZJwspSkAc): An episode of the Ben Heck show that breaks down I2C, SPI, and RS-232 interfaces.
 
 ------
 
