@@ -3,7 +3,7 @@ A collection of design and programming resources for students, indie developers,
 
 - [Art and design](#art-and-design)
 - [Assembly language for 8-bit computers and game consoles](#assembly-language-for-8-bit-computers-and-game-consoles)
-- [Crafts and wearables](#crafts-and-wearables)
+- [Electronics](#electronics)
 - [HTML & CSS](#html-and-css)
 - [Javascript](#javascript)
 - [JSON](#json)
