@@ -183,6 +183,7 @@ A collection of design and programming resources for students, indie developers,
 ### Swift
  - [Intro to iOS App Development with Swift](https://classroom.udacity.com/courses/ud585/): Udacity course on iOS app development with Swift and Xcode.
  - [Learn Swift Programming Syntax](https://classroom.udacity.com/courses/ud902/): Another Swift course on Udacity; this one goes more in depth on the nature of the Swift language. A good place to start if the Intro to iOS App Development course contains terminology unfamiliar to you.
+ - [Object Oriented Programming in Swift](https://www.weheartswift.com/object-oriented-programming-swift/): A good intro article from the We Heart Swift blog.
 
 ------
 
