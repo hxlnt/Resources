@@ -12,6 +12,7 @@ A collection of design and programming resources for students, indie developers,
 - [Markdown](#markdown)
 - [Microcontrollers](#microcontrollers) _(incl. Arduino, Photon, etc.)_
 - [node.js](#nodejs)
+- [Perl](#perl)
 - [Processing](#processing)
 - [Productivity](#productivity)
 - [Python](#python)
@@ -151,6 +152,13 @@ A collection of design and programming resources for students, indie developers,
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
 - [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript.
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
+
+------
+
+### Perl
+- [MetaCPAN](https://metacpan.org/): Better-than-CPAN package search engine and documentation listing for Perl modules.
+- [Modern Perl](https://pragprog.com/book/swperl/modern-perl-fourth-edition): A book that describes modern best practices in Perl. Freely available as an eBook.
+- [Mojolicious](http://mojolicious.org/): A modern, lightweight web framework.
 
 ------
 
