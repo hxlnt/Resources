@@ -86,6 +86,7 @@ A collection of design and programming resources for students, indie developers,
 - [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Easy-to-use Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Easy-to-use JQuery resource.
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): An excellent deep-dive series of books on Javascript written by Kyle Simpson. Available for purchase or to read online for free.
 
 ------
 
@@ -149,7 +150,7 @@ A collection of design and programming resources for students, indie developers,
 - [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
 - [Node.js apps: what’s the difference between installing npm packages locally and globally?](http://www.bartread.com/2014/02/17/whats-difference-locally-globally-installing-npm-packages/): "Global packages are for anything that you need to access from the shell. By contrast local packages are for using within your apps."
 - [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
-- [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript.
+- [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript. The code repository is on [GitHub](https://github.com/noopkat/oled-js).
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 
 ------
@@ -175,7 +176,9 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Raspberry Pi
+- [Digital sign](https://developer.microsoft.com/en-us/windows/iot/samples/digitalsign): Tutorial for building a digital display for Windows 10 IoT Core.
 - [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam): Adafruit tutorial for making a cloud-connected camera.
+- [SPI Display](https://developer.microsoft.com/en-us/windows/iot/samples/spidisplay): In-depth tutorial for connecting an SPI display device to a Raspberry Pi running Windows IoT Core.
 - [Web Browser for Windows IOT on Raspberry Pi 2](https://www.youtube.com/watch?v=dULnFK6R6XY): Video walkthrough that shows you how to build a web browser for Windows on Pi.
 - [Windows IoT Core Code Samples](https://developer.microsoft.com/en-us/windows/iot/Samples): Tons of Windows 10 IoT Core code samples--an excellent resource!
 - [Windows IoT Core Application Management](https://learn.adafruit.com/windows-iot-application-management): OK, not the most thrilling name for an article, but super informative: Learn how to set a Windows 10 app for Raspberry Pi to run at startup.
