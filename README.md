@@ -177,6 +177,8 @@ A collection of design and programming resources for students, indie developers,
 ### Raspberry Pi
 - [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam): Adafruit tutorial for making a cloud-connected camera.
 - [Web Browser for Windows IOT on Raspberry Pi 2](https://www.youtube.com/watch?v=dULnFK6R6XY): Video walkthrough that shows you how to build a web browser for Windows on Pi.
+- [Windows IoT Core Code Samples](https://developer.microsoft.com/en-us/windows/iot/Samples): Tons of Windows 10 IoT Core code samples--an excellent resource!
+- [Windows IoT Core Application Management](https://learn.adafruit.com/windows-iot-application-management): OK, not the most thrilling name for an article, but super informative: Learn how to set a Windows 10 app for Raspberry Pi to run at startup.
 
 ------
 
