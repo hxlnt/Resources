@@ -27,8 +27,7 @@ A collection of design and programming resources for students, indie developers,
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
 - [Moving into the World of 3D](https://helpx.adobe.com/illustrator/how-to/illustrator-moving-into-3d.html): A video tutorial on creating 3D art in Adobe Illustrator.
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
-- _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
-- [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
+- _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.- [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
 
 ------
 
@@ -60,10 +59,10 @@ A collection of design and programming resources for students, indie developers,
 - [HTML5 Canvas Scratch Pad](http://www.kevs3d.co.uk/dev/scratchpad/): A web-based testing environment for Canvas that includes sample code to modify and play around with.
 - [HTML5's canvas element, and a bit of SVG](http://beej.us/blog/data/html5-canvas/): Blog post describing some of the capabilities of HTML5 Canvas.
 - [HTML5's canvas part II: Pixel manipulation](http://beej.us/blog/data/html5s-canvas-2-pixel/): A follow-up blog post to the one above that describes image processing in Canvas.
-- [HTML5 Hacks](http://www.html5hacks.com/): A blog showcasing cool and useful things to do with HTML5. There's also [a book](http://www.html5hacks.com/get-the-book/) that despite being a little outdated is a good reference.
-- [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
+- [HTML5 Hacks](http://www.html5hacks.com/): A blog showcasing cool and useful things to do with HTML5. There's also [a book](http://www.html5hacks.com/get-the-book/) that despite being a little outdated is a good reference.- [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Comprehensive CSS reference and teaching materials.
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/): Comprehensive HTML reference and teaching materials.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of HTML and CSS tutorials compiled by the Mozilla Developer Network.
+- [Perfection Kills](http://perfectionkills.com/): Articles on the ins and outs of HTML, CSS, and JS.
 - [Canvas, images, and pixels: Things I learned building an 8-bit logo generator](https://codepo8.github.io/canvas-images-and-pixels/): Good walkthrough of an image manipulation project build with Javascript and HTML5 Canvas.
 - [W3Schools: CSS](http://www.w3schools.com/css/default.asp): Easy-to-use CSS resource.
 - [W3Schools: HTML5](http://www.w3schools.com/html/default.asp): Easy-to-use HTML resource.
