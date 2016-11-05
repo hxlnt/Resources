@@ -41,7 +41,6 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-
 ### Electronics
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
 - [Conductive Thread](https://learn.adafruit.com/conductive-thread/overview): An Adafruit tutorial on using conductive thread.
@@ -74,6 +73,7 @@ A collection of design and programming resources for students, indie developers,
 ### Javascript
 - [AngularJS: Developer Guide](https://docs.angularjs.org/guide): The official guide to AngularJS.
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
+- [idiomatic.js](https://github.com/rwaldron/idiomatic.js): A collaboratively-created Javascript style guide to writing "consistent, idiomatic JavaScript."
 - [Javascript Best Practices](https://dev.opera.com/articles/javascript-best-practices/): Christian Heilmann's common-sense approaches to writing good Javascript.
 - [Javascript Design Patterns](https://classroom.udacity.com/courses/ud989): An advanced Udacity course for Javascript developers.
 - [Javascript MVC](http://alistapart.com/article/javascript-mvc): An in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and framework-agnostic conversation.)
