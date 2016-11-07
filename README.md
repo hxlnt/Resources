@@ -163,7 +163,8 @@ A collection of design and programming resources for students, indie developers,
 ------
 
 ### Productivity
-- [Unix/Linux Commands Cheat Sheet](https://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/)
+- [Unix/Linux Commands Cheat Sheet](https://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/): "It's a Unix system... _I know this!"_ But if you don't, print this out and keep it next to your computer for handy reference.
+- [Visual Studio Code Key Bindings](http://code.visualstudio.com/docs/customization/keybindings): Printable PDFs of key combos for VS Code on Mac/Windows/Linux. Become super-fast and super-strong!
 
 ------
 
