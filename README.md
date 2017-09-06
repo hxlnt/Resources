@@ -23,43 +23,54 @@ A collection of design and programming resources for students, indie developers,
 
 ### Art and design
 - [3D Modeling in Adobe Illustrator](http://designmodo.com/3d-modeling-illustrator/): Use Adobe Illustrator to model basic 3D objects.
-- *[6502 Assembly Language](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)* by Judi N. Fernandez, Donna N. Tabler, and Ruth Ashley
-- [8-bit Workshop](http://www.8bitworkshop.com) 
-- [Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/)
-- [awesome-gbdev](https://github.com/avivace/awesome-gbdev)
-- [Easy 6502](http://skilldrick.github.io/easy6502/)
 - [Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
 - *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
 - [Moving into the World of 3D](https://helpx.adobe.com/illustrator/how-to/illustrator-moving-into-3d.html): A video tutorial on creating 3D art in Adobe Illustrator.
-- [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
-- [newcoleco's Colecovision homebrew videos](https://www.youtube.com/playlist?list=PL7C48074376C9BAA0)
-- [NintendoAge](http://www.nintendoage.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
-- [SMS Development](http://www.smspower.org/Development/Index)
-- _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.- [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
+- _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
+- [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
+
 
 ------
 
 ### Assembly language for 8-bit computers and game consoles
 - _[6502 Assembly Language Programming](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)_: This workbook-style book will teach you how to write assembly language code for the Apple II, Commodore 64, NES, and other _hot new 6502-based systems!_
+- [8-bit Workshop](http://www.8bitworkshop.com) 
 - [AtariAge: Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/): Metaresource for Atari 2600 programming (documentation, sample code, utilities, etc.) from Atari enthusiast forum AtariAge.
+- [awesome-gbdev](https://github.com/avivace/awesome-gbdev)
+- [Easy 6502](http://skilldrick.github.io/easy6502/)
 - [Romhacking.net](http://www.romhacking.net): Active community for video game ROM hacking (mostly 8- and 16-bit) with useful collections of utilities and documentation.
+- [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
+- [newcoleco's Colecovision homebrew videos](https://www.youtube.com/playlist?list=PL7C48074376C9BAA0)
 - [NintendoAge](http://www.nintendoage.com): The premiere forum for NES collectors and general enthusiasts has a subforum on NES programming with some of the best NES ASM tutorials ("Nerdy Nights") out there.
 - [SMS Power!: Development](http://www.smspower.org/Development/Index): Development resources for 8-bit SEGA consoles such as the Sega Master System and SG-1000.
 
 ------
 
-### Electronics
+### Electronics and microcontrollers
 - [Animated Flying Toaster OLED Jewelry](https://learn.adafruit.com/animated-flying-toaster-oled-jewelry/overview): Adafruit tutorial on creating an adorably tiny Macintosh-inspired animated display.
+- [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
+- [ArduinoJSON](https://github.com/bblanchon/ArduinoJson): JSON parsing/encoding library for microcontrollers, including Arduino and Particle Photon (via the Particle online IDE).
 - [Conductive Thread](https://learn.adafruit.com/conductive-thread/overview): An Adafruit tutorial on using conductive thread.
+- [ConnectedNES](http://www.nobadmemories.com/connectednes): A hack that adds WiFi connectivity and a streaming twitter client to the original NES.
 - [Creative Case Hacks: No 3D Printer Required!](https://www.youtube.com/watch?v=grG3EVPg1vI): Ben Heck demonstrates how to make an acrylic electronics closure by hand.
 - [Cricut Explore Blade and Blade Housing Changes and Comparisons](https://www.youtube.com/watch?v=fZqVy_roJGY): This video has some great information about replacing blades in the Cricut Explore.
 - [Crochet Battery Holder](http://www.instructables.com/id/Crochet-Battery-Holder/): Instructions for making an ingenious crocheted coin cell battery holder.
+- [Cutting rubber stamps with your Cricut Explore](https://www.youtube.com/watch?v=wMAjJWXHhqc)
 - [DIY Neon Sign](http://www.rookiemag.com/2015/12/diy-neon-sign/): Use EL wire to make something that looks a lot like a neon sign.
-- [Hack everything: Repurposing everyday devices](https://www.youtube.com/watch?v=VY9SBPo1Oy8): A conference talk by Matt Evans that walks through hacking reclaimed electroncs.
+- [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
+- [Hack everything: Repurposing everyday devices](https://www.youtube.com/watch?v=VY9SBPo1Oy8): A conference talk by Matt Evans that walks through hacking reclaimed electronics.
+- [Handcrafting Textile Sensors from Scratch](https://cdn-shop.adafruit.com/datasheets/HandcraftingSensors.pdf)
+- [How to Setup a Particle Photon and a 16x2 LCD Screen](http://blog.jongallant.com/2015/10/particle-photon-lcd-setup.html): Jon Gallant goes through wiring up and grabbing libraries for a Photon and a standard 16x2 LCD screen.
 - [Introduction to Interfaces](https://www.youtube.com/watch?v=nMZJwspSkAc): An episode of the Ben Heck show that breaks down I2C, SPI, and RS-232 interfaces.
+- [Play Melody](https://www.arduino.cc/en/Tutorial/PlayMelody): Simple Arduino routine for playing melodies with a piezo speaker.
+- [Spark Twitter Magnet](https://github.com/spark/twitter-magnet): Display a twitter stream using the Particle Photon.
+- [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
+- [The Maker Show, ep. 10: Adding a Coin Acceptor to Your Arduino Project](https://channel9.msdn.com/Shows/themakershow/10): Add a coin mechanism to an Arduino using interrupts.
+- [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
+- [Word Clock v2](https://www.hackster.io/wgbartley/word-clock-v2-26adee): A clock built with an RGB LED strand and a Particle Photon that demonstrates good techniques for lighted sign making.
 
 ------
 
@@ -80,20 +91,42 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### Javascript
+### Javascript/Node.js
+- [Angular 2 from the Ground Up](https://www.youtube.com/watch?v=IWVAPIDXzFY)
 - [AngularJS: Developer Guide](https://docs.angularjs.org/guide): The official guide to AngularJS.
+- [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple Node.js app.
+- [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful) 
+- [Bluebird - Promises in NodeJS](https://alexperry.io/node/2015/03/25/promises-in-node.html)
+- [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script)
+- [Ember.js Guides and Tutorials](https://guides.emberjs.com/v2.11.0/)
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
+- [A gentle introduction to Javascript test-driven development: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
+- [How Javascript event delegation works](https://davidwalsh.name/event-delegate)
+- [How to store user data in Electron](https://medium.com/@ccnokes/how-to-store-user-data-in-electron-3ba6bf66bc1e)
+- [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js): A collaboratively-created Javascript style guide to writing "consistent, idiomatic JavaScript."
+- [Intro to JS Drawing & Animation: Object-Oriented Design](https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/p/object-types)
+- [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [Javascript30: 30-day Vanilla JS Coding Challenge](http://wesbos.com/javascript30/)
 - [Javascript Best Practices](https://dev.opera.com/articles/javascript-best-practices/): Christian Heilmann's common-sense approaches to writing good Javascript.
 - [Javascript Design Patterns](https://classroom.udacity.com/courses/ud989): An advanced Udacity course for Javascript developers.
+- [JavaScript for Cats](http://jsforcats.com/)
 - [Javascript MVC](http://alistapart.com/article/javascript-mvc): An in-depth conceptual explanation of Javascript MVC. (Warning: Written in 2009, it's absolutely ancient by today's standards and framework-agnostic conversation.)
 - _[Javascript Patterns: Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)_: A book for intermediate Javascript developers on elegant code design, best practices, and tested design patterns. A bit outdated given its 2010 publication date, but valuable nonetheless.
 - [MDN: Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): A collection of Javascript tutorials compiled by the Mozilla Developer Network.
 - [Meteor Guide](https://guide.meteor.com): Guide to using Meteor for building web applications.
 - [Modern Workflow & Tooling](http://wesbos.com/modern-javascript-workflow-tooling/): Grunt? Gulp? Node? Huh? Watch Wes Bos's talk on modern web development tooling and get caught up on the latest in build and workflow tooling.
+- [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+- [Node.js apps: what’s the difference between installing npm packages locally and globally?](http://www.bartread.com/2014/02/17/whats-difference-locally-globally-installing-npm-packages/): "Global packages are for anything that you need to access from the shell. By contrast local packages are for using within your apps."
+- [Node.js web app using the Azure Table Service](https://docs.microsoft.com/en-us/azure/app-service-web/storage-nodejs-use-table-storage-web-site)
+- [NODESCHOOL](https://nodeschool.io/)
+- [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
+- [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript. The code repository is on [GitHub](https://github.com/noopkat/oled-js).
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
+- [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 - [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
+- [Vue.js](https://vuejs.org/)
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Easy-to-use Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Easy-to-use JQuery resource.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): An excellent deep-dive series of books on Javascript written by Kyle Simpson. Available for purchase or to read online for free.
@@ -131,37 +164,12 @@ A collection of design and programming resources for students, indie developers,
 
 -----
 
-### Markdown
+### Markdown/static site generators
 - [DocPad](http://docpad.org/docs/begin): A node-based static-site generator that lets you author however you like, including with Markdown.
 - [Hexo](http://hexo.io): Another node-based static-site generator with primary authoring via Markdown.
+- [Hugo](http://gohugo.io/)
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): The official guide to Markdown syntax.
 - [VS Code Speedrun: Markdown](https://channel9.msdn.com/Blogs/raw-tech/VS-Code-Speedrun-Markdown): A two-minute video showing how to work with Markdown in VS Code.
-
-------
-
-### Microcontrollers
-- [ArduinoJSON](https://github.com/bblanchon/ArduinoJson): JSON parsing/encoding library for microcontrollers, including Arduino and Particle Photon (via the Particle online IDE).
-- [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Tutorials and programming reference materials from the official Arduino website.
-- [ConnectedNES](http://www.nobadmemories.com/connectednes): A hack that adds WiFi connectivity and a streaming twitter client to the original NES.
-- [Espruino Quick Start](http://www.espruino.com/Quick+Start): Getting started with Espruino boards, microcontrollers powered by the magic of Javascript!
-- [How to Setup a Particle Photon and a 16x2 LCD Screen](http://blog.jongallant.com/2015/10/particle-photon-lcd-setup.html): Jon Gallant goes through wiring up and grabbing libraries for a Photon and a standard 16x2 LCD screen.
-- [Play Melody](https://www.arduino.cc/en/Tutorial/PlayMelody): Simple Arduino routine for playing melodies with a piezo speaker.
-- [Spark Twitter Magnet](https://github.com/spark/twitter-magnet): Display a twitter stream using the Particle Photon.
-- [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
-- [The Maker Show, ep. 10: Adding a Coin Acceptor to Your Arduino Project](https://channel9.msdn.com/Shows/themakershow/10): Add a coin mechanism to an Arduino using interrupts.
-- [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
-- [Word Clock v2](https://www.hackster.io/wgbartley/word-clock-v2-26adee): A clock built with an RGB LED strand and a Particle Photon that demonstrates good techniques for lighted sign making.
-
-------
-
-### node.js
-- [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple node.js app.
-- [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script): A simple explanation of how to call a REST API from a node app.
-- [How to use Blob storage from node.js](https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/): Upload, retrieve, and delete blobs in a node.js application.
-- [Node.js apps: what’s the difference between installing npm packages locally and globally?](http://www.bartread.com/2014/02/17/whats-difference-locally-globally-installing-npm-packages/): "Global packages are for anything that you need to access from the shell. By contrast local packages are for using within your apps."
-- [npm Documentation](https://docs.npmjs.com/getting-started/): Official documentation and getting-started guide for npm.
-- [oled-js](http://meow.noopkat.com/oled-js/): A library for interacting with an OLED via Javascript. The code repository is on [GitHub](https://github.com/noopkat/oled-js).
-- [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
 
 ------
 
