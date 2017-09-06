@@ -23,10 +23,21 @@ A collection of design and programming resources for students, indie developers,
 
 ### Art and design
 - [3D Modeling in Adobe Illustrator](http://designmodo.com/3d-modeling-illustrator/): Use Adobe Illustrator to model basic 3D objects.
+- *[6502 Assembly Language](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)* by Judi N. Fernandez, Donna N. Tabler, and Ruth Ashley
+- [8-bit Workshop](http://www.8bitworkshop.com) 
+- [Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/)
+- [awesome-gbdev](https://github.com/avivace/awesome-gbdev)
+- [Easy 6502](http://skilldrick.github.io/easy6502/)
+- [Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
+- *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
 - [Moving into the World of 3D](https://helpx.adobe.com/illustrator/how-to/illustrator-moving-into-3d.html): A video tutorial on creating 3D art in Adobe Illustrator.
+- [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
+- [newcoleco's Colecovision homebrew videos](https://www.youtube.com/playlist?list=PL7C48074376C9BAA0)
+- [NintendoAge](http://www.nintendoage.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
+- [SMS Development](http://www.smspower.org/Development/Index)
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.- [Tech Trek: Create Your Own Font](http://www.rookiemag.com/2016/04/trek-tech-font/): A tutorial for making a font with free web-based tools.
 
 ------
