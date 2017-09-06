@@ -3,15 +3,13 @@ A collection of design and programming resources for students, indie developers,
 
 - [Art and design](#art-and-design)
 - [Assembly language for 8-bit computers and game consoles](#assembly-language-for-8-bit-computers-and-game-consoles)
-- [Electronics](#electronics)
+- [Electronics and microcontrollers](#electronics-and-microcontrollers)
 - [HTML & CSS](#html-and-css)
 - [Javascript](#javascript)
 - [JSON](#json)
 - [Kinect](#kinect)
 - [Machine learning and AI](#machine-learning-and-ai)
-- [Markdown](#markdown)
-- [Microcontrollers](#microcontrollers) _(incl. Arduino, Photon, etc.)_
-- [node.js](#nodejs)
+- [Markdown and static site generators](#markdown-and-static-site-generators)
 - [Processing](#processing)
 - [Productivity](#productivity)
 - [Python](#python)
@@ -23,10 +21,8 @@ A collection of design and programming resources for students, indie developers,
 
 ### Art and design
 - [3D Modeling in Adobe Illustrator](http://designmodo.com/3d-modeling-illustrator/): Use Adobe Illustrator to model basic 3D objects.
-- [Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
-- *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
 - [Moving into the World of 3D](https://helpx.adobe.com/illustrator/how-to/illustrator-moving-into-3d.html): A video tutorial on creating 3D art in Adobe Illustrator.
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator): Excellent, in-depth post on the theory and practice of building computational art and generative code.
 - _[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)_: Required reading for upcoming artists.
@@ -38,13 +34,15 @@ A collection of design and programming resources for students, indie developers,
 ### Assembly language for 8-bit computers and game consoles
 - _[6502 Assembly Language Programming](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)_: This workbook-style book will teach you how to write assembly language code for the Apple II, Commodore 64, NES, and other _hot new 6502-based systems!_
 - [8-bit Workshop](http://www.8bitworkshop.com) 
+- [Archive.org Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
 - [AtariAge: Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/): Metaresource for Atari 2600 programming (documentation, sample code, utilities, etc.) from Atari enthusiast forum AtariAge.
 - [awesome-gbdev](https://github.com/avivace/awesome-gbdev)
 - [Easy 6502](http://skilldrick.github.io/easy6502/)
-- [Romhacking.net](http://www.romhacking.net): Active community for video game ROM hacking (mostly 8- and 16-bit) with useful collections of utilities and documentation.
+- *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
 - [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
 - [newcoleco's Colecovision homebrew videos](https://www.youtube.com/playlist?list=PL7C48074376C9BAA0)
 - [NintendoAge](http://www.nintendoage.com): The premiere forum for NES collectors and general enthusiasts has a subforum on NES programming with some of the best NES ASM tutorials ("Nerdy Nights") out there.
+- [Romhacking.net](http://www.romhacking.net): Active community for video game ROM hacking (mostly 8- and 16-bit) with useful collections of utilities and documentation.
 - [SMS Power!: Development](http://www.smspower.org/Development/Index): Development resources for 8-bit SEGA consoles such as the Sega Master System and SG-1000.
 
 ------
@@ -91,7 +89,7 @@ A collection of design and programming resources for students, indie developers,
 
 ------
 
-### Javascript/Node.js
+### Javascript
 - [Angular 2 from the Ground Up](https://www.youtube.com/watch?v=IWVAPIDXzFY)
 - [AngularJS: Developer Guide](https://docs.angularjs.org/guide): The official guide to AngularJS.
 - [Azure demo: Getting started with Azure DocumentDB on node.js](https://www.youtube.com/watch?v=UAE7h9PCZjA): Storing, retrieving, and querying contents of a DocumentDB collection in a simple Node.js app.
@@ -164,7 +162,7 @@ A collection of design and programming resources for students, indie developers,
 
 -----
 
-### Markdown/static site generators
+### Markdown and static site generators
 - [DocPad](http://docpad.org/docs/begin): A node-based static-site generator that lets you author however you like, including with Markdown.
 - [Hexo](http://hexo.io): Another node-based static-site generator with primary authoring via Markdown.
 - [Hugo](http://gohugo.io/)
