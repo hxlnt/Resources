@@ -96,6 +96,7 @@ A collection of design and programming resources for students, indie developers,
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful) 
 - [Bluebird - Promises in NodeJS](https://alexperry.io/node/2015/03/25/promises-in-node.html)
 - [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script)
+- [Deploying create-react-app on Microsoft Azure](https://medium.com/@to_pe/deploying-create-react-app-on-microsoft-azure-c0f6686a4321)
 - [Ember.js Guides and Tutorials](https://guides.emberjs.com/v2.11.0/)
 - [Explain Like I'm Five: Model-View-Controller (MVC) software architecture](https://www.reddit.com/r/explainlikeimfive/comments/o4cpy/eli5_modelviewcontroller_mvc_software_architecture/): What the hell is an MVC Javascript framework, anyway? Read this quick explanation on MVC in general from Reddit's ELI5 subforum.
 - [A gentle introduction to Javascript test-driven development: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
