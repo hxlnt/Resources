@@ -125,6 +125,7 @@ A collection of design and programming resources for students, indie developers,
 - [p5.js](http://p5js.org): A Javascript library inspired by Processing and made for artists.
 - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/): Christian Heilmann's easy-to-read primer on getting started with Javascript.
 - [Project Oxford for Node](https://github.com/felixrieseberg/project-oxford): Use Face API, Emotion API, and Computer Vision API in a node project.
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html): Best practices on how to organize a React app. 
 - [three.js](https://github.com/mrdoob/three.js): A 3D-graphics Javascript library.
 - [Vue.js](https://vuejs.org/)
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Easy-to-use Javascript resource.
