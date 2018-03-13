@@ -64,11 +64,13 @@ A collection of design and programming resources for students, indie developers,
 - [Handcrafting Textile Sensors from Scratch](https://cdn-shop.adafruit.com/datasheets/HandcraftingSensors.pdf)
 - [How to Setup a Particle Photon and a 16x2 LCD Screen](http://blog.jongallant.com/2015/10/particle-photon-lcd-setup.html): Jon Gallant goes through wiring up and grabbing libraries for a Photon and a standard 16x2 LCD screen.
 - [Introduction to Interfaces](https://www.youtube.com/watch?v=nMZJwspSkAc): An episode of the Ben Heck show that breaks down I2C, SPI, and RS-232 interfaces.
+- [Keypad](http://playground.arduino.cc/Code/Keypad): Keypad library for Arduino.
 - [Play Melody](https://www.arduino.cc/en/Tutorial/PlayMelody): Simple Arduino routine for playing melodies with a piezo speaker.
 - [Spark Twitter Magnet](https://github.com/spark/twitter-magnet): Display a twitter stream using the Particle Photon.
 - [The Maker Show, ep. 7: The Photon Awakens](https://channel9.msdn.com/Shows/themakershow/7): Nick Landry walks through setting up the Photon and connecting it to a simple web app.
 - [The Maker Show, ep. 10: Adding a Coin Acceptor to Your Arduino Project](https://channel9.msdn.com/Shows/themakershow/10): Add a coin mechanism to an Arduino using interrupts.
 - [Tutorial: Spark Variable and Function on One Page](https://community.particle.io/t/tutorial-spark-variable-and-function-on-one-web-page/4181/29): Build a web interface that sends data to and receives data from a Particle Photon.
+- [Using .NET Core 2 to Read Serial Data from an Arduino Uno over USB](https://jeremylindsayni.wordpress.com/2017/07/31/using-net-core-2-to-read-serial-data-from-an-arduino-uno-over-usb/): Exactly what it says.
 - [Word Clock v2](https://www.hackster.io/wgbartley/word-clock-v2-26adee): A clock built with an RGB LED strand and a Particle Photon that demonstrates good techniques for lighted sign making.
 
 ------
