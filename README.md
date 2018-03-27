@@ -1,3 +1,4 @@
+
 # RAE'S BOOKMARKS
 A collection of design and programming resources for students, indie developers, and artists.
 
@@ -39,6 +40,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### Art and design
 - [3D Modeling in Adobe Illustrator](http://designmodo.com/3d-modeling-illustrator/): Use Adobe Illustrator to model basic 3D objects.
+- [Fundamentals of Graphic Design: Process, Generation, and Iteration](https://www.youtube.com/watch?v=8vL-jwGreR0)
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
 - [Moving into the World of 3D](https://helpx.adobe.com/illustrator/how-to/illustrator-moving-into-3d.html): A video tutorial on creating 3D art in Adobe Illustrator.
