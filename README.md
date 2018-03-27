@@ -41,7 +41,7 @@ A collection of design and programming resources for students, indie developers,
 
 ### Art and design
 - [3D Modeling in Adobe Illustrator](http://designmodo.com/3d-modeling-illustrator/): Use Adobe Illustrator to model basic 3D objects.
-- [Design Q&A](http://www.eamesoffice.com/the-work/design-q-a-text/): The script from the classic Charles Eames short film *Qu’est ce que le design?*
+- [Design Q&A](https://youtu.be/bmgxDCujTUw): The classic Charles Eames short film *Qu’est ce que le design?*
 - [Fundamentals of Graphic Design: Process, Generation, and Iteration](https://www.youtube.com/watch?v=8vL-jwGreR0)
 - _[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)_: All of the theoretical teachings of design school without the crippling student debt. 
 - [How to edit videos with Premiere Pro](https://helpx.adobe.com/premiere-pro/how-to/edit-videos.html?set=premiere-pro--get-started): Adobe's quickstart guide to editing in Premiere (Adobe CC).
