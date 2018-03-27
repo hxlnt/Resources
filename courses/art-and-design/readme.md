@@ -1,4 +1,4 @@
-# [hxlnt](https://github.com/hxlnt)/[Resources](https://github.com/hxlnt/Resources)/[courses](https://github.com/hxlnt/Resources/courses) Art and design
+# [hxlnt](https://github.com/hxlnt)/[Resources](https://github.com/hxlnt/Resources)/[courses](https://github.com/hxlnt/Resources/tree/master/courses) Art and design
 
 This self-directed course is designed for people who make stuff and want to learn how to make stuff *better.* It is primarily targeted to software developers but may be of use to a general readership as well.
 
