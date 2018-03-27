@@ -12,3 +12,4 @@ Art and design practices can help you make better software. They can also make y
  - [Fundamentals of Graphic Design: Process, Generation, and Iteration](https://www.youtube.com/watch?v=8vL-jwGreR0)
  - [Practice Makes Purpose: A Creative Warm-up for People Who Make Stuff](https://github.com/hxlnt/Resources/blob/master/PracticeMakesPurpose/workshop.pdf)
  - *[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)*
+ - *Ways of Seeing*, [episode 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
