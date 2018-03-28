@@ -8,9 +8,14 @@ Art and design practices can help you make better software. They can also make y
 
 ## Resources
 
+### Watch
  - *[Design Q&A](https://www.youtube.com/watch?v=bmgxDCujTUw)*
  - [Fundamentals of Graphic Design: Process, Generation, and Iteration](https://www.youtube.com/watch?v=8vL-jwGreR0)
- - *[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)*
- - [Practice Makes Purpose: A Creative Warm-up for People Who Make Stuff](https://github.com/hxlnt/Resources/blob/master/PracticeMakesPurpose/workshop.pdf)
- - *[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)*
  - *Ways of Seeing*, [episode 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
+### Read
+ - *[Hello World: Where Design Meets Life](http://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)*
+ - [How to Keep Going](https://medium.com/@austinkleon/how-to-keep-going-c185496fd295)
+ - *[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)*
+### Do
+ - [Practice Makes Purpose: A Creative Warm-up for People Who Make Stuff](https://github.com/hxlnt/Resources/blob/master/PracticeMakesPurpose/workshop.pdf)
+
