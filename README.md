@@ -142,6 +142,7 @@ A collection of design and programming resources for students, indie developers,
 - [Vue.js](https://vuejs.org/)
 - [W3Schools: Javascript](http://www.w3schools.com/js/default.asp): Easy-to-use Javascript resource.
 - [W3Schools: JQuery](http://www.w3schools.com/jquery/default.asp): Easy-to-use JQuery resource.
+- [Writing cross-platform Node.js](https://shapeshed.com/writing-cross-platform-node/#paths)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): An excellent deep-dive series of books on Javascript written by Kyle Simpson. Available for purchase or to read online for free.
 
 ------
